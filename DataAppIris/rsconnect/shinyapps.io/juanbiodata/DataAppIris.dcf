@@ -1,0 +1,13 @@
+name: DataAppIris
+title: DataAppIris
+username:
+account: juanbiodata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5538409
+bundleId: 5521717
+url: https://juanbiodata.shinyapps.io/DataAppIris/
+when: 1643474731.64134
+lastSyncTime: 1643474731.64137
+asMultiple: FALSE
+asStatic: FALSE
